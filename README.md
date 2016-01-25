@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="http://i.giphy.com/qeMbj4CjaRgf6.gif" width="700px" />
+  <img src="https://raw.githubusercontent.com/sauravtom/insultgen/gh-pages/shakes_peace.gif" width="700px" />
 </p>
 
-How Do I Look?
+Shakespearean Insult Generator
 =====
 
-How Do I Look is non-serious attempt at solving the problem every guy faces. It's a random generator for responses to the "How do I look?" question women ask, so that we have more options than "Nice!", "Pretty!" and "Beautiful!".
+Sometimes the 21st century lingo seems inadequate to describe the online atrocities of millennials, for that very purpose use homie Shakespears work and get creative with your, ughm adjectives. 
 
-![](http://i.imgur.com/HbHgNmN.png)
-
-**PS**: I don't take any responsibilty if your relationship lands in trouble after using some these responses.
+![](https://raw.githubusercontent.com/sauravtom/insultgen/gh-pages/screen.png)
 
 Technologies Used
 ====
 
 Built using `Tabletop.js`, `Animate.css` and `Touch Swipe`.
+Based on [Shakespeare Insult Kit](http://www.pangloss.com/seidel/shake_rule.html)
 
 Credits
 ====
-Design inspired by [GFSA](http://greatfuckingstartupadvice.com/).
+Shamelessly forked from [Archit' project How Do I look?](https://github.com/architv/howdoilook)
 
 Licence
 ====
 Open sourced under [MIT License](LICENSE).
+
+
+<p align="center">
+  <img src="http://2.bp.blogspot.com/-1RFwVbzpkEM/UsDZnXyClmI/AAAAAAAABY8/vikl-gQFKbc/s1600/winking_Shakespeare.gif" width="700px" />
+</p>
