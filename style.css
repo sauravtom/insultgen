@@ -1,11 +1,18 @@
+
+@font-face {
+    font-family: 'mcfoo';
+    src: url('MyUnderwood.ttf');
+}
+
 body {
 	font-family: 'Roboto', sans-serif;font-family: 
 }
 .title {
 	font-size: 6em;
 	color: #A020F0;
-	font-family: 'Carter One', cursive;
+	font-family: 'mcfoo';
 	text-align: center;
+	font-weight: bolder;
  }
 
 .wrapper{

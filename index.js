@@ -1,4 +1,4 @@
-window.onload = function() { init() };
+	window.onload = function() { init() };
 
 	var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1j8-PvfpixsB2URW8PcvornQbRzIA4YMNu2GxEwvag7M/pubhtml';
 	var previousIndex = -1;
