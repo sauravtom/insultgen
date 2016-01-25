@@ -13,6 +13,7 @@ Technologies Used
 ====
 
 Built using `Tabletop.js`, `Animate.css` and `Touch Swipe`.
+Based on [Shakespeare Insult Kit](http://www.pangloss.com/seidel/shake_rule.html)
 
 Credits
 ====
