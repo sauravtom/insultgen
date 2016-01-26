@@ -5,11 +5,20 @@
 }
 
 body {
-	font-family: 'Roboto', sans-serif;font-family: 
-}
+ 	font-family: 'Roboto', sans-serif;font-family:
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #4c88ef), color-stop(100%, #17e4d9));
+    background: -webkit-linear-gradient(-45deg, #4c88ef 0%, #17e4d9 100%);
+    background: -webkit-linear-gradient(315deg, #4c88ef 0%, #17e4d9 100%);
+    background: linear-gradient(135deg, #4c88ef 0%, #17e4d9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4c88ef', endColorstr='#17e4d9', GradientType=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+  }  
+
 .title {
 	font-size: 6em;
-	color: #A020F0;
+	color: black;
 	font-family: 'mcfoo';
 	text-align: center;
 	font-weight: bolder;
